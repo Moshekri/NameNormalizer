@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HebrewNameNormalizer", "HebrewNameNormalizer\HebrewNameNormalizer.csproj", "{06CCD9BE-5A2F-47B9-89F6-22F6FC33EC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormalizerTests", "NormalizerTests\NormalizerTests.csproj", "{82854512-9865-4573-8B9A-1E53B1800DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CCD9BE-5A2F-47B9-89F6-22F6FC33EC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CCD9BE-5A2F-47B9-89F6-22F6FC33EC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CCD9BE-5A2F-47B9-89F6-22F6FC33EC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CCD9BE-5A2F-47B9-89F6-22F6FC33EC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82854512-9865-4573-8B9A-1E53B1800DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82854512-9865-4573-8B9A-1E53B1800DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82854512-9865-4573-8B9A-1E53B1800DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82854512-9865-4573-8B9A-1E53B1800DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B625D3-442B-4BBC-8BBF-87D6C606FFCC}
+	EndGlobalSection
+EndGlobal
